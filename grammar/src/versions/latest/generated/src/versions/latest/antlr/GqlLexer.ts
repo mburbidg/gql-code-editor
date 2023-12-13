@@ -1,4 +1,4 @@
-// Generated from src/versions/latest/antlr/GqlLexer.g4 by ANTLR 4.13.1
+// Generated from src/versions/latest/antlr/GqlLexer.g4 by ANTLR 4.13.0
 // noinspection ES6UnusedImports,JSUnusedGlobalSymbols,JSUnusedLocalSymbols
 import {
 	ATN,
@@ -10,7 +10,7 @@ import {
 	RuleContext,
 	PredictionContextCache,
 	Token
-} from "antlr4";
+} from "@gql-grammar/antlr4";
 export default class GqlLexer extends Lexer {
 	public static readonly LEFT_ARROW = 1;
 	public static readonly LEFT_ARROW_TILDE = 2;
