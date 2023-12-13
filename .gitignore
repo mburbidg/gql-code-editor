@@ -1,3 +1,5 @@
 .idea
 document
 node_modules
+grammar/src/versions/latest/generated
+grammar/src/versions/pg-schema/generated

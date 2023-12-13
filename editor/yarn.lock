@@ -1021,13 +1021,13 @@
 "@gql-grammar/core@file:../grammar":
   version "1.0.10"
   dependencies:
-    "@gql-grammar/antlr4" "file:C:/Users/marmo/AppData/Local/Yarn/Cache/v6/npm-@gql-grammar-core-1.0.10-fb06a61c-de11-46d7-8658-1de6867b835a-1702489757869/node_modules/@gql-grammar/antlr"
+    "@gql-grammar/antlr4" "file:../../../../Library/Caches/Yarn/v6/npm-@gql-grammar-core-1.0.10-f22b7369-e733-410d-ac3d-6fe745de7f03-1702508564641/node_modules/@gql-grammar/antlr"
 
 "@gql-grammar/worker@file:../worker":
   version "1.0.4"
   dependencies:
-    "@gql-grammar/antlr4" "file:C:/Users/marmo/AppData/Local/Yarn/Cache/v6/npm-@gql-grammar-worker-1.0.4-e5bdbe05-451c-4268-b6c6-2bf0526bf689-1702489757859/node_modules/@gql-grammar/antlr"
-    "@gql-grammar/core" "file:C:/Users/marmo/AppData/Local/Yarn/Cache/v6/npm-@gql-grammar-worker-1.0.4-e5bdbe05-451c-4268-b6c6-2bf0526bf689-1702489757859/node_modules/@gql-grammar/grammar"
+    "@gql-grammar/antlr4" "file:../../../../Library/Caches/Yarn/v6/npm-@gql-grammar-worker-1.0.4-420a12e0-7631-4855-bca6-75a242482b5f-1702508564640/node_modules/@gql-grammar/antlr"
+    "@gql-grammar/core" "file:../../../../Library/Caches/Yarn/v6/npm-@gql-grammar-worker-1.0.4-420a12e0-7631-4855-bca6-75a242482b5f-1702508564640/node_modules/@gql-grammar/grammar"
 
 "@humanwhocodes/config-array@^0.11.8":
   version "0.11.8"
@@ -2555,9 +2555,9 @@ camelcase@^6.2.0:
   integrity sha512-Gmy6FhYlCY7uOElZUSbxo2UCDH8owEk996gkbrpsgGtrJLM3J7jGxl9Ic7Qwwj4ivOE5AWZWRMecDdF7hqGjFA==
 
 caniuse-lite@^1.0.30001449:
-  version "1.0.30001481"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001481.tgz#f58a717afe92f9e69d0e35ff64df596bfad93912"
-  integrity sha512-KCqHwRnaa1InZBtqXzP98LPg0ajCVujMKjqKDhZEthIpAsJl/YEIa3YvXjGXPVqzZVguccuu7ga9KOE1J9rKPQ==
+  version "1.0.30001570"
+  resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001570.tgz"
+  integrity sha512-+3e0ASu4sw1SWaoCtvPeyXp+5PsjigkSt8OXZbF9StH5pQWbxEjLAZE3n8Aup5udop1uRiKA7a4utUk/uoSpUw==
 
 chalk@^2.0.0:
   version "2.4.2"

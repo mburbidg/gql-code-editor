@@ -20,6 +20,21 @@ node --version
 
 If everything is fine we should see currently installed version of Node, if there are some problems, probably they are related to system environment variables.
 
+### Node Package Manager (npm) configuration
+
+If you are building on MacOS and you default shell is zsh, you will need to do the following.
+
+Add an alias something like the following to ~/.zshenv
+
+alias antlr4='java -Xmx500M -cp "/Users/foouser/Development/software/antlr/antlr-4.13.0-complete.jar:$CLASSPATH" org.antlr.v4.Tool'
+alias grun='java -Xmx500M -cp "/Users/foouser/Development/software/antlr/antlr-4.13.0-complete.jar:$CLASSPATH" org.antlr.v4.gui.TestRig'
+
+Add the following two lines to your npm configuration file, ~/.npmrc
+
+shell="/bin/zsh"
+script-shell="/bin/zsh"
+
+
 ### yarn installation
 
 **Important**
